@@ -1,0 +1,22 @@
+{
+  "name": "express-server-seed",
+  "version": "1.0.0",
+  "description": "Starter express.js server for quick Node development setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisheinrich/express-server-seed.git"
+  },
+  "author": "Kris Heinrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisheinrich/express-server-seed/issues"
+  },
+  "homepage": "https://github.com/krisheinrich/express-server-seed#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
